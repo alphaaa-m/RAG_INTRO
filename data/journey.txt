@@ -1,0 +1,77 @@
+# About Me
+
+## My Journey
+
+From an early age, I was fascinated by two things, numbers and technology. Mathematics gave me the thrill of solving problems, while technology sparked my curiosity about how the world could be transformed through innovation. Over time, I realized that the real magic happens when the two come together. This realization guided every step of my academic and professional journey.
+
+## A Path of Resilience
+
+I was born on March 10, 2000, in Gujrat, Pakistan. I began my schooling at Raza School, Gujrat, where I studied up to class 8. For matriculation, I joined Government Municipal Model High School for Boys, studying Mathematics, Physics, Chemistry, and Biology. I secured **918 out of 1100 marks**, performing well academically. Many people encouraged me to pursue medicine, but my passion for Mathematics led me in a different direction.
+
+I enrolled in **FSc Pre-Engineering** at Government Zamindar Postgraduate College, Gujrat, and scored **819 out of 1100**. While most students leaned toward Biology, I consciously chose Mathematics. During this period, I discovered my aptitude for teaching and began teaching Mathematics at **Ali Science Academy**. That experience planted the seed of a lifelong passion for education.
+
+Initially, I planned to pursue engineering and was even selected for a university program. Financial constraints forced me to reconsider, so I opted for a more affordable option, a **BSc in Mathematics and Physics** at Zamindar College. My academic journey was interrupted when the COVID-19 pandemic struck Pakistan, delaying my plans for higher education.
+
+## The Turning Point: MSc and Data Science
+
+After restrictions were lifted, the government began phasing out MSc programs in favor of the international four-year BS system. Only a few universities still offered MSc programs, including **Government College University, Lahore (GCUL)**. Determined not to abandon my goals, I moved to Lahore and completed my **MSc in Mathematics** with a **CGPA of 3.37/4.0**.
+
+My MSc years proved to be a turning point. I strengthened my academic foundation, gained confidence, sharpened my problem-solving skills, and grew socially. More importantly, I was introduced to **Data Science**. Fascinated, I began learning **Python** through online resources and YouTube tutorials. Soon, I explored **Machine Learning**, discovering how it perfectly bridged Mathematics and technology, my two lifelong passions.
+
+During my time at GCUL, I remained socially active. I was a member of the **Chawla Mathematics Society**, where I helped organize seminars and workshops. I also joined the **Blood Donor Society**, volunteering in blood donation drives and awareness campaigns.
+
+## Career and the Quest for Knowledge
+
+After graduation, I achieved my dream of becoming a teacher, but I set a new goal, pursuing a **PhD**. Teaching stayed close to my heart, but I also aspired to build a career in research and technology. I started teaching at a school after completing my MSc. While teaching was fulfilling, it soon became clear that it was not financially sustainable in Pakistan. Meeting basic expenses was difficult, and supporting a family through teaching alone seemed unrealistic.
+
+Around this time, my earlier exposure to Data Science resurfaced. Combined with financial challenges, it motivated me to explore technology more seriously. I began learning Python independently while continuing to teach, holding on to my love for Mathematics and education.
+
+I later enrolled in an **Artificial Intelligence (Machine Learning and Deep Learning)** training program at **Minhaj University, Lahore**, offered by **NAVTTC**. This marked my formal entry into programming. Alongside this, I completed multiple online courses from **Coursera**, including:
+
+- Data Science Math Skills (Duke University)
+- Discrete Mathematics (UC San Diego)
+- Mathematical Thinking (Stanford University)
+- Algebra (Johns Hopkins University)
+
+I also worked on practical projects such as:
+- Brain Tumor Detection using CNN
+- Credit Card Fraud Detection
+- Diabetes Classification
+- CIFAR Image Classification
+- AI-Based Career Selection Chatbot
+
+These projects helped me merge strong mathematical foundations with real-world AI applications.
+
+## Professional Experience
+
+I then joined **InsightSol Technologies** for a one-month remote internship. My role involved training two machine learning algorithms using Python. While the exposure was limited, it provided my first structured experience with ML workflows and project execution.
+
+After the internship, I continued teaching at **Hajveri Lyceum School**, where I taught Mathematics to grades 5 through 9. Teaching kept me financially stable and allowed me to refine my communication skills by simplifying complex ideas for young learners.
+
+## The Road Ahead
+
+Alongside teaching, I began preparing to study abroad. I took the **IELTS**, achieving an overall **7.0 band score**:
+- Listening: 8.0
+- Reading: 7.5
+- Writing: 6.5
+- Speaking: 6.0
+
+Despite applying for multiple international scholarships, my **2+2 degree structure (BSc + MSc)** led to repeated rejections. This was a discouraging phase, but it strengthened my resolve. I adopted a step-by-step strategy, completing an MS in Pakistan first, then reapplying abroad for a PhD.
+
+Currently, I am working in a challenging and rewarding role at **Meissasoft**. This full-fledged internship goes beyond coding. I gain real industry exposure by:
+- Practicing OOP through a **Chess Game Engine** and **Ride-Sharing Simulation**
+- Solving **Data Structures and Algorithms** problems on HackerRank
+- Designing **SQL databases**
+- Building a **CRUD-based Student Management System** using **FastAPI and SQLAlchemy**
+
+Unlike my earlier internship, this role provides deep insight into industry practices, project structures, database design, API development, and application testing. Here, I truly feel part of the tech ecosystem.
+
+## Conclusion
+
+I have also been admitted to the **MS Data Science program at UET**, marking another milestone in my journey. With strong foundations in Mathematics, hands-on experience in Machine Learning and Deep Learning, and a passion for teaching and research, I aim to grow into a researcher who advances AI while solving real-world problems.
+
+My journey has not been easy. Financial struggles, academic interruptions, and scholarship rejections shaped the path. Each challenge strengthened my resilience and clarified my purpose. Mathematics taught me logic, teaching taught me clarity, and Artificial Intelligence gave me vision.
+
+My ultimate goal is to pursue a **PhD**, contribute to **AI and Data Science research**, continue teaching, and build impactful, real-world applications through AI, whether in software houses or as a freelancer.
+
+**Let’s build something amazing together.**

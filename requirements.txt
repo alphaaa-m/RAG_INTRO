@@ -1,0 +1,4 @@
+# Dependencies for building JSON vector store only
+langchain
+langchain-community
+sentence-transformers
