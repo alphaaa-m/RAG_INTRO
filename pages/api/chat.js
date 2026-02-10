@@ -1,5 +1,7 @@
 import Groq from "groq-sdk";
 import { pipeline } from "@xenova/transformers";
+import fs from "fs";
+import path from "path";
 
 let embedder = null;
 let vectorStore = null;
@@ -19,11 +21,10 @@ async function loadVectorStore() {
   if (!vectorStore) {
     console.log("Loading vector store...");
     try {
-      const response = await fetch(process.env.VERCEL_URL 
-        ? `https://${process.env.VERCEL_URL}/vector_store.json`
-        : 'http://localhost:3000/vector_store.json'
-      );
-      vectorStore = await response.json();
+      const filePath = path.join(process.cwd(), "public", "vector_store.json");
+      const fileContent = fs.readFileSync(filePath, "utf-8");
+      vectorStore = JSON.parse(fileContent);
+      console.log(`Loaded ${vectorStore.chunks.length} chunks from vector store`);
     } catch (err) {
       console.error("Vector store not found:", err);
       throw new Error("Vector store not initialized. Run: py scripts/build_json_store.py");
